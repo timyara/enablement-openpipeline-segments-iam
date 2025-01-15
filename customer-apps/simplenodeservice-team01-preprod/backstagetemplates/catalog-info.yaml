@@ -40,7 +40,7 @@ spec:
   type: business-unit
   profile:
     displayName: Team 02
-    email: team02@dynatrace.training
+    email: team02@example.com
     picture: https://example.com/staff/jenny-with-party-hat.jpeg
   parent: applications
   children: []
